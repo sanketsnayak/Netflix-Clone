@@ -1,2 +1,2 @@
 # Netflix-Clone
-Here i build webpage of Netflix clone using HTML and CSS.
+Here i built webpage of Netflix clone using HTML and CSS.
